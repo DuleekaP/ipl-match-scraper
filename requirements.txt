@@ -1,0 +1,23 @@
+# This file is used to install the required packages for the project.
+# It is recommended to use a virtual environment to avoid conflicts with other projects.
+beautifulsoup4==4.13.4
+blinker==1.9.0
+bs4==0.0.2
+fake-useragent==2.2.0
+Flask==3.1.0
+fonttools==4.57.0
+graphviz==0.20.3
+matplotlib==3.10.1
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1733416936468/work
+numpy==1.26.4
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
+pandas==2.2.3
+pillow==11.1.0
+requests==2.32.3
+scikit-learn==1.6.1
+scipy==1.15.2
+seaborn==0.13.2
+setuptools==75.8.0
+soupsieve==2.6
+tenacity==9.1.2
+

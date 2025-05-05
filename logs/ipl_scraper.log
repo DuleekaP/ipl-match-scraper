@@ -1,0 +1,36 @@
+2025-05-05 08:25:09 - __main__ - INFO - Processing year 2008
+2025-05-05 08:25:10 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2008_matches.csv
+2025-05-05 08:25:10 - __main__ - INFO - Processing year 2009
+2025-05-05 08:25:11 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2009_matches.csv
+2025-05-05 08:25:11 - __main__ - INFO - Processing year 2010
+2025-05-05 08:25:11 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2010_matches.csv
+2025-05-05 08:25:11 - __main__ - INFO - Processing year 2011
+2025-05-05 08:25:12 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2011_matches.csv
+2025-05-05 08:25:12 - __main__ - INFO - Processing year 2012
+2025-05-05 08:25:13 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2012_matches.csv
+2025-05-05 08:25:13 - __main__ - INFO - Processing year 2013
+2025-05-05 08:25:13 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2013_matches.csv
+2025-05-05 08:25:13 - __main__ - INFO - Processing year 2014
+2025-05-05 08:25:14 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2014_matches.csv
+2025-05-05 08:25:14 - __main__ - INFO - Processing year 2015
+2025-05-05 08:25:15 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2015_matches.csv
+2025-05-05 08:25:15 - __main__ - INFO - Processing year 2016
+2025-05-05 08:25:15 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2016_matches.csv
+2025-05-05 08:25:15 - __main__ - INFO - Processing year 2017
+2025-05-05 08:25:16 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2017_matches.csv
+2025-05-05 08:25:16 - __main__ - INFO - Processing year 2018
+2025-05-05 08:25:16 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2018_matches.csv
+2025-05-05 08:25:16 - __main__ - INFO - Processing year 2019
+2025-05-05 08:25:17 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2019_matches.csv
+2025-05-05 08:25:17 - __main__ - INFO - Processing year 2020
+2025-05-05 08:25:18 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2020_matches.csv
+2025-05-05 08:25:18 - __main__ - INFO - Processing year 2021
+2025-05-05 08:25:18 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2021_matches.csv
+2025-05-05 08:25:18 - __main__ - INFO - Processing year 2022
+2025-05-05 08:25:19 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2022_matches.csv
+2025-05-05 08:25:19 - __main__ - INFO - Processing year 2023
+2025-05-05 08:25:20 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2023_matches.csv
+2025-05-05 08:25:20 - __main__ - INFO - Processing year 2024
+2025-05-05 08:25:21 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2024_matches.csv
+2025-05-05 08:25:21 - __main__ - INFO - Processing year 2025
+2025-05-05 08:25:21 - src.storage.file_storage - INFO - Saved data to data/outputs/ipl_2025_matches.csv
